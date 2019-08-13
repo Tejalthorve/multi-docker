@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\client",
-    "\\client\\nginx"
+    "\\client\\nginx",
+    "\\client\\src"
   ],
-  "SelectedNode": "\\client\\nginx\\default.conf",
+  "SelectedNode": "\\.travis.yml",
   "PreviewInSolutionExplorer": false
 }
